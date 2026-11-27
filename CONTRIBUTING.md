@@ -141,3 +141,8 @@ pnpm run lint
 - [TSDoc](https://tsdoc.org/) is used for the code documentation.
 
 - [TypeDoc](https://typedoc.org/) is used to parse the TSDoc annotations and populate the database.
+
+
+## Prima di aprire una PR
+
+Eseguire i test della locale toccata e allegare un esempio di uscita.
