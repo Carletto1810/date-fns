@@ -67,3 +67,8 @@ and other docs.
 ## License
 
 [MIT © Sasha Koss](https://kossnocorp.mit-license.org/)
+
+
+## Esempio in italiano
+
+`formatDistance(data, oggi, { locale: it })` restituisce testi come "3 giorni".
